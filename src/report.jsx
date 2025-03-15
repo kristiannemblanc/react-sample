@@ -62,7 +62,7 @@ export default class report extends Component {
         <Navbar bg="primary" variant="dark">
           <Container>
             <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์</Navbar.Brand>
-            <div>{/* Name */}</div>
+            <div>{"67130832 กฤติน  เนียมบาง"}</div>
           </Container>
         </Navbar>
         <Container>
